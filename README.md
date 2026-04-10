@@ -19,7 +19,6 @@
   </style>
 </head>
 <body>
-  <h1>TETRIS LIGHT</h1>
   <p>Puntos: <span id="score">0</span></p>
   <canvas id="game" width="240" height="400"></canvas>
 
